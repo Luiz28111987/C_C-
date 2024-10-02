@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Luiz/Desktop/Estudos/C_C++",
-      "program": "c:/Users/Luiz/Desktop/Estudos/C_C++/build/Debug/outDebug",
+      "cwd": "c:/Users/Luiz/Desktop/Estudos/Scripts-C/Tema_5",
+      "program": "c:/Users/Luiz/Desktop/Estudos/Scripts-C/Tema_5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
